@@ -1,12 +1,12 @@
 {
-  "name": "sw_my-plug-rules",
-  "version": "1.0.1",
+  "name": "hooksplug",
+  "version": "1.0.5",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "sw",
   "license": "ISC",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",

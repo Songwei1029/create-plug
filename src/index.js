@@ -1,5 +1,5 @@
-import * as rules from './rule/rules';
+import CommomDatePicker from './Components/DatePicker/index';
 
 export {
-    rules
-};
+  CommomDatePicker
+}
